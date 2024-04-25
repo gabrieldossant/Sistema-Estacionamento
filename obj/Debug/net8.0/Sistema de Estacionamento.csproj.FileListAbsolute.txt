@@ -1,0 +1,14 @@
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.exe
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.deps.json
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.runtimeconfig.json
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.dll
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.pdb
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfoInputs.cache
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfo.cs
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.csproj.CoreCompileInputs.cache
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.dll
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\refint\Sistema de Estacionamento.dll
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.pdb
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.genruntimeconfig.cache
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\Sistema de Estacionamento\obj\Debug\net8.0\ref\Sistema de Estacionamento.dll
